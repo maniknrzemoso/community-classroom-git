@@ -1,0 +1,3 @@
+[submodule "PracticeRepository"]
+	path = PracticeRepository
+	url = https://github.com/maniknrzemoso/PracticeRepository.git
